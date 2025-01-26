@@ -1,6 +1,6 @@
 # Jose Luis Pino Ucan
 
-**Android & Full Stack Developer | Team Leader | Instructor**
+**Android & Full Stack Developer | Instructor**
 
 ---
 
