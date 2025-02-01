@@ -46,6 +46,16 @@
   - Developed web solutions with PHP and C# .NET.  
 
 ---
+### 🌟 Androis Projects
+- [Banco Azteca](https://play.google.com/store/apps/details?id=mx.com.bancoazteca.bazdigitalmovil)  
+- [Baz Super App](https://play.google.com/store/apps/details?id=mx.app.baz.superapp)  
+- [Baz Negocio](https://play.google.com/store/apps/details?id=mx.app.baz.baznegocio)  
+- [Consultas INSEJUPY](https://play.google.com/store/apps/details?id=gob.mx.consultas.insejupy)
+
+### 🌟 Web Projects
+- [Glaucoma del sureste](https://glaucomadelsureste.com/)
+- [Geoportal](https://geoportal.merida.gob.mx/)
+- [Recuerdos marisol](https://recuerdosmarisol.com/)
 
 ### 🎓 Education & Certifications
 - **Computer Systems Engineering** (2008 - 2012)  
@@ -60,7 +70,7 @@
   - [Crea Apps en Android sin ser Ingeniero](https://www.udemy.com/user/jose-luis-pino-ucan/)
   - [Jetpack Compose Desde Cero](https://www.udemy.com/user/jose-luis-pino-ucan/)  
 
-- **YouTube Channe**:
+- **YouTube Channel**:
   - [Joss Programming](https://www.youtube.com/c/JossProgramming)
 ---
 
@@ -70,14 +80,3 @@
 - **Phone**: +52 55 38 62 13 16  
 
 ---
-
-### 🌟 Androis Projects
-- [Banco Azteca](https://play.google.com/store/apps/details?id=mx.com.bancoazteca.bazdigitalmovil)  
-- [Baz Super App](https://play.google.com/store/apps/details?id=mx.app.baz.superapp)  
-- [Baz Negocio](https://play.google.com/store/apps/details?id=mx.app.baz.baznegocio)  
-- [Consultas INSEJUPY](https://play.google.com/store/apps/details?id=gob.mx.consultas.insejupy)
-
-### 🌟 Web Projects
-- [Glaucoma del sureste](https://glaucomadelsureste.com/)
-- [Geoportal](https://geoportal.merida.gob.mx/)
-- [Recuerdos marisol](https://recuerdosmarisol.com/)
