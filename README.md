@@ -71,8 +71,13 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Androis Projects
 - [Banco Azteca](https://play.google.com/store/apps/details?id=mx.com.bancoazteca.bazdigitalmovil)  
 - [Baz Super App](https://play.google.com/store/apps/details?id=mx.app.baz.superapp)  
 - [Baz Negocio](https://play.google.com/store/apps/details?id=mx.app.baz.baznegocio)  
-- [Consultas INSEJUPY](https://play.google.com/store/apps/details?id=gob.mx.consultas.insejupy)  
+- [Consultas INSEJUPY](https://play.google.com/store/apps/details?id=gob.mx.consultas.insejupy)
+
+### 🌟 Web Projects
+- [Glaucoma del sureste](https://glaucomadelsureste.com/)
+- [Geoportal](https://geoportal.merida.gob.mx/)
+- [Recuerdos marisol](https://recuerdosmarisol.com/)
