@@ -53,13 +53,15 @@
 - [Consultas INSEJUPY](https://play.google.com/store/apps/details?id=gob.mx.consultas.insejupy)
 
 ### 🌟 Web Projects
-- [Next PMP] (https://nextpmp.engsigner.com/)
+- [Next PMP](https://nextpmp.engsigner.com/)
 - [Glaucoma del sureste](https://glaucomadelsureste.com/)
+- [Miro Temozon](https://mirotemozon.mx/)
 - [Geoportal](https://geoportal.merida.gob.mx/)
 - [Recuerdos marisol](https://recuerdosmarisol.com/)
 - [INSEJUPY](https://www.insejupy.gob.mx/)
 - [Dr. Sonrisa](https://drsonrisa.com.mx/)
 - [Casa Hogar Luisa María Clar](https://casahogarluisamariaclar.org/)
+
 
 ### 🎓 Education & Certifications
 - **Computer Systems Engineering** (2008 - 2012)  
