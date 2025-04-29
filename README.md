@@ -53,7 +53,7 @@
 - [Consultas INSEJUPY](https://play.google.com/store/apps/details?id=gob.mx.consultas.insejupy)
 
 ### 🌟 Web Projects
-- [Next PMP](https://nextpmp.engsigner.com/)
+- [Next PMP](https://bcgpmp.com/)
 - [Glaucoma del sureste](https://glaucomadelsureste.com/)
 - [Miro Temozon](https://mirotemozon.mx/)
 - [Simesur Web App](https://dashboard.simesur.com.mx/)
