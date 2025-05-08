@@ -53,9 +53,12 @@
 - [Consultas INSEJUPY](https://play.google.com/store/apps/details?id=gob.mx.consultas.insejupy)
 
 ### 🌟 Web Projects
+- [Onoma desarrollos](https://onomadesarrollos.com/)
+- [Hacienda San Juan Opichen](https://haciendasanjuanopichen.com/)
 - [Next PMP](https://bcgpmp.com/)
 - [Engsigner](https://engsigner.com/)
 - [Glaucoma del sureste](https://glaucomadelsureste.com/)
+- [Next PMP](https://bcgpmp.com/)
 - [Miro Temozon](https://mirotemozon.mx/)
 - [Simesur Web App](https://dashboard.simesur.com.mx/)
 - [Geoportal](https://geoportal.merida.gob.mx/)
